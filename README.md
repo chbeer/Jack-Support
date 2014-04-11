@@ -1,6 +1,6 @@
 Jack-Issues
 ===========
 
-This is the repository where I collect all issues for the convenient frontend for iTunes Connect called [Jack](http://apps.chbeer.de/jack).
+This is the repository where I collect all issues for the convenient frontend for iTunes Connect called [Jack](http://apps.chbeer.de/jack/).
 
 Go to the [Issues](https://github.com/chbeer/Jack-Issues/issues)
